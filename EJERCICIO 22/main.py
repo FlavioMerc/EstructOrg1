@@ -6,4 +6,4 @@ for i in range (100):
         numero = int(input('Digite un numero:'))
         suma += numero
 
-print("la suma es: ",suma-numero)
+print("la suma es: ",suma-(suma-100))
