@@ -15,7 +15,7 @@ else:
         a,b = b, fibonacci
 
 
-# numero = int(input("Digite un numero: "))
+# serie = int(input("Digite un numero: "))
 # 0 1 1 2 3 5 8 13
 
 # for i in range(serie + 1)
